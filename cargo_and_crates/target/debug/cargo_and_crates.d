@@ -1,1 +1,1 @@
-/home/victor_v/rust_learning/cargo_and_crates/target/debug/cargo_and_crates: /home/victor_v/rust_learning/cargo_and_crates/src/main.rs
+C:\Users\VIrad\RustroverProjects\rust_learning1\cargo_and_crates\target\debug\cargo_and_crates.exe: C:\Users\VIrad\RustroverProjects\rust_learning1\cargo_and_crates\calculations\src\lib.rs C:\Users\VIrad\RustroverProjects\rust_learning1\cargo_and_crates\src\main.rs

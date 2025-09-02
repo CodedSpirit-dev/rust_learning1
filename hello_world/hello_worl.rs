@@ -29,8 +29,8 @@ fn main() {
     println("{}", x); // Hello world!
 
     // Rust has a print!() macro that is similar to println!() but does not add a newline.
-    print!("{}", x) // Hello, world! without a newline
-    println!() // Prints a newline
+    print!("{}", x); // Hello, world! without a newline
+    println!(); // Prints a newline
 
     print!("Hello, world!\n"); // Hello, world! With a newline
 
